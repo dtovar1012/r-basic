@@ -7,4 +7,6 @@ install.packages("magic", dep = TRUE)
 
 magic(6)
 
-installed.packages()
+installed.packages() 
+sqrt(25)
+ log
