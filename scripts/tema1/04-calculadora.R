@@ -82,7 +82,7 @@ choose(5,2)
 sin(60*pi/180)
 
 cos(60*pi/180)
-
+sinpi(60)
 sinpi(1/2) # = sin (pi/2)
 
 tan(pi) # -1.224647e-16 ~ 0
@@ -97,7 +97,7 @@ asin(5) #arc sin x in [-1,1]
 
 acos(-8)
 
-print(sqrt(2),10)
+print(sqrt(2),5)
 round(sqrt(2), 3)
 floor(sqrt(2))
 ceiling(sqrt(2))
@@ -136,9 +136,9 @@ y
 
 sin(pi/4) + cos(pi/4) -> z
 z
-
+D
 edad <- 30
-
+F
 nombre = "Juan Gabriel"
 
 HOLA = 1
