@@ -1,9 +1,15 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # [Curso de introducción a la estadística descriptiva con R Studio y Python](https://www.udemy.com/estadistica-descriptiva/?couponCode=FROM_BOKDOWN_RSTUDIO)
-*Con Juan Gabriel Gomila y María Santos*
+
+*Con Juan Gabriel Gomila y Maria Santos*
 
 Conoce toda la estadística descriptiva de la mano de Juan Gabriel Gomila y asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primera de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
-
-
+  
+      
 *ejemplo* 
 
 * Logística e instalación de R y RStudio y de Anaconda Navigator para Python
