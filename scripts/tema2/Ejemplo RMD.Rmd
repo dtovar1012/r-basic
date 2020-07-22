@@ -28,3 +28,16 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+### NUESTRAS PROPIAS CHUNKS
+Vamos a calcular $\sqrt{2} -  e^{-2}$:
+```{r Miprimerachunk, echo=FALSE ,comment=NA}
+sqrt(2) - exp(-2)
+
+```
+
+Cuando queremos hacer la raiz cuadrada de dos , podemos hacerlo:
+  -En $\LaTeX$:$\sqrt{2}$
+  -En `R` haciendo `r sqrt(2)` 
+  -La frase completa : $\sqrt{2}=$ `r sqrt(2)`
